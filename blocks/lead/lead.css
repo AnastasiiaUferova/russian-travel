@@ -1,0 +1,28 @@
+.lead{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    max-width: 928px;
+    background-color: #2A2C2F;
+}
+
+
+@media (max-width: 768px){
+    .lead{
+        max-width: 768px;
+    }
+}
+
+
+@media (max-width: 320px){
+    .lead{
+        max-width: 320px;
+    }
+}
+
+
+@media (min-width: 1280px){
+    .lead{
+        max-width: 984px;
+    }
+}

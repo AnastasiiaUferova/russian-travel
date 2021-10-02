@@ -1,0 +1,7 @@
+@media (max-width: 320px){
+    .place__paragraphs{
+        margin-block-end: 0;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

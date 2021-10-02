@@ -1,0 +1,23 @@
+.root__cover{
+    margin: auto;
+    margin-top: 92px;
+}
+
+
+
+
+@media (max-width: 768px){
+    .root__cover{
+        margin-top: 90px;
+    }
+    
+
+}
+
+
+@media (max-width: 320px){
+    .root__cover{
+        margin-top: 66px;
+    }
+    
+}

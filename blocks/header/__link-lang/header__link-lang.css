@@ -1,0 +1,24 @@
+.header__link-lang{
+    color: white;
+    align-self: flex-end;
+    font-size: 24px;
+    line-height: 117%;
+    text-decoration: none;
+}
+
+.header__link-lang:active{
+    text-decoration: underline;
+}
+
+.header__link-lang:nth-child(2){
+    margin-left: 18px;
+}
+
+
+
+@media (max-width: 320px){
+    .header__link-lang{
+        font-size: 18px;
+        line-height: 111%;
+    }
+}

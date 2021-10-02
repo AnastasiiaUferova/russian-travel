@@ -1,0 +1,38 @@
+.place__title{
+    color: white;
+    font-weight: 900;
+    font-size: 72px;
+    font-style: normal;
+    line-height: 106%;
+    text-align: center;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    text-align: left;
+    text-align: start;
+}
+
+
+
+@media (max-width: 768px){
+    .place__title{
+        font-size: 42px;
+        line-height: 110%;
+
+    }
+    
+
+}
+
+
+@media (max-width: 320px){
+    .place__title{
+        font-size: 32px;
+        line-height: 109%;
+        max-width: 228px;
+        margin-block-start: 0;
+        margin-block-end: 0;
+
+    }
+    
+}
+
