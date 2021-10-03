@@ -24,7 +24,7 @@
     background-color:#2A2C2F;
     opacity: 0.3;
     z-index: -1;
-    transition: opacity 1s ease
+    transition: opacity 1s ease;
 }
 
 .cover:hover:after{
@@ -45,7 +45,7 @@
 @media (max-width: 320px){
     .cover{
         max-width: 320px;
-        min-height: 200px
+        min-height: 200px;
     }
     
 }
