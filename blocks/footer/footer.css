@@ -7,13 +7,16 @@
 }
 
 
+
 @media (max-width: 768px){
     .footer{
         max-width: 720px;
+        flex-direction: row;
     }
     
 
 }
+
 
 
 @media (max-width: 320px){
@@ -23,13 +26,13 @@
     }
 }
 
+
 @media (max-width: 425px){
     .footer{
         flex-direction: column;
         align-items: flex-start;
     }
 }
-
 
 
 

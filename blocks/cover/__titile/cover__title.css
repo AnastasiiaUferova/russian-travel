@@ -7,6 +7,8 @@
     font-style: normal;
     line-height: 106%;
     text-align: center;
+    max-width: 560px;
+    align-self: center;
 }
 
 
@@ -20,9 +22,9 @@
 }
 
 
-@media (min-width: 425px){
+@media (max-width: 425px){
     .cover__title{
-        font-size: 58px;
+        font-size: 32px;
         line-height: 109%;
     }
     

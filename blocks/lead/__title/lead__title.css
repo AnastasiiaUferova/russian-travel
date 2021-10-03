@@ -10,6 +10,14 @@
     margin-top: 48px;
 }
 
+@media (max-width: 425px){
+    .lead__title{
+        font-size: 40px;
+        line-height: 110%;
+}
+
+}
+
 
 @media (max-width: 320px){
     .lead__title{
@@ -18,10 +26,3 @@
     } 
 }
 
-@media (max-width: 425px){
-    .lead__title{
-        font-size: 54px;
-        line-height: 110%;
-}
-
-}
