@@ -5,13 +5,19 @@
     line-height: 163%;
     margin-block-start: 0;
     color: white;
+    margin-bottom: 26px;
 }
+
+
+.place__paragraph:nth-child(2){
+    margin-bottom: 0;
+}
+
 
 
 @media (max-width: 768px){
     .place__paragraph{
         font-size: 16px;
-        line-height: 163%;
     }
     
 
@@ -20,9 +26,7 @@
 
 @media (max-width: 320px){
     .place__paragraph{
-        font-size: 13px;
-        line-height: 163%;
-        max-width: 228px;
+        margin-right: 0; 
     }
     
 }

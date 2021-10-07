@@ -7,6 +7,14 @@
 }
 
 
+
+@media (min-width: 1280px){
+    .intro{
+        max-width: 984px;
+    }
+}
+
+
 @media (max-width: 768px){
     .intro{
         max-width: 720px;

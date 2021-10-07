@@ -1,9 +1,15 @@
 .places{
     max-width: 928px;
     
-    
-
 }
+
+
+@media (min-width: 1280px){
+    .places{
+        max-width: 984px;
+    }
+}
+
 
 
 @media (max-width: 768px){
@@ -23,8 +29,3 @@
 }
 
 
-@media (min-width: 1280px){
-    .place{
-        max-width: 984px;
-    }
-}

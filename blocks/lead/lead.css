@@ -7,6 +7,14 @@
 }
 
 
+@media (min-width: 1280px){
+    .lead{
+        max-width: 984px;
+    }
+}
+
+
+
 @media (max-width: 768px){
     .lead{
         max-width: 768px;
@@ -21,8 +29,3 @@
 }
 
 
-@media (min-width: 1280px){
-    .lead{
-        max-width: 984px;
-    }
-}

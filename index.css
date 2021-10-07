@@ -18,7 +18,6 @@
 @import url(./blocks/intro/__list-item/intro__list-item.css);
 @import url(./blocks/intro/__span-accent/intro__span-accent.css);
 @import url(./blocks/root/__intro/root__intro.css);
-@import url(./blocks/intro/__list-text/intro__list-text.css);
 @import url(./blocks/photo-grid/photo-grid.css);
 @import url(./blocks/photo-grid/__item/photo-grid__item.css);
 @import url(./blocks/root/__photo-grid/root__photo-grid.css);
@@ -42,3 +41,7 @@
 @import url(./blocks/footer/__link/footer__link.css);
 @import url(./blocks/footer/__copyright/footer__copyright.css);
 @import url(./blocks/root/__footer/root__footer.css);
+@import url(./blocks/header/__link-lang/_chosen/header__link-lang_chosen.css);
+@import url(./blocks/cover/__overlay/cover__overlay.css);
+@import url(./blocks/place/__paragraph-margin/place__paragraph-margin.css);
+

@@ -3,16 +3,10 @@
     padding-top: 28px;
 }
 
-@media (max-width: 768px){
+@media (max-width: 425px){
     .root__header{
         padding-top: 16px;
     }
 }
 
-
-@media (max-width: 320px){
-    .root__header{
-        padding-top: 16px;
-    }
-}
 

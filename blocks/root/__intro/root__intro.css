@@ -3,6 +3,14 @@
 }
 
 
+
+@media (min-width: 1280px){
+    .root__intro{
+        margin: auto;
+    }
+}
+
+
 @media (max-width: 768px){
     .root__intro{
         margin-left: 24px;
@@ -19,8 +27,3 @@
     
 }
 
-@media (min-width: 1280px){
-    .root__intro{
-        margin-left: 148px;
-    }
-}

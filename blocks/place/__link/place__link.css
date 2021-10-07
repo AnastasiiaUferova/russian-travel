@@ -10,22 +10,9 @@
 }
 
 .place__link:hover{
-    text-decoration: underline;
-}
-
-@media (max-width: 768px){
-    .place__link{
-        font-size: 16px;
-        line-height: 163%; 
-    }
-
+    opacity: 0.8;
 }
 
 
-@media (max-width: 320px){
-    .place__link{
-        font-size: 16px;
-        line-height: 163%;
-    }
-    
-}
+
+

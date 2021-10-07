@@ -1,0 +1,21 @@
+.cover__overlay{
+    z-index: 1;
+}
+
+
+.cover__overlay::after{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color:#2A2C2F;
+    opacity: 0.3;
+    z-index: -1;
+    transition: opacity 1s ease;
+}
+
+.cover__overlay:hover:after{
+    opacity: 0.8;
+}

@@ -16,15 +16,4 @@
     .place__url-heading{
         line-height: 100%;
     }
-    
-
-}
-
-
-@media (max-width: 320px){
-    .place__url-heading{
-        line-height: 100%;
-
-    }
-    
 }

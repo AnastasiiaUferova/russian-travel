@@ -6,14 +6,15 @@
     text-decoration: none;
 }
 
-.header__link-lang:active{
-    text-decoration: underline;
-}
 
 .header__link-lang:nth-child(2){
     margin-left: 18px;
 }
 
+
+.heder__link-lang:hover{
+    opacity: 0.8;
+}
 
 
 @media (max-width: 320px){

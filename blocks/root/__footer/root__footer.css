@@ -5,12 +5,18 @@
 }
 
 
+@media (min-width: 1280px){
+    .root__footer{
+        max-width: 1184px;
+    }
+}
+
+
 @media (max-width: 768px){
     .root__footer{
         margin-top: 88px;
     }
     
-
 }
 
 @media (max-width: 425px){
@@ -21,16 +27,3 @@
     
 }
 
-@media (max-width: 320px){
-    .root__footer{
-        margin-top: 64px;
-        margin-left: 16px;
-    }
-    
-}
-
-@media (min-width: 1280px){
-    .root__footer{
-        max-width: 1184px;
-    }
-}
