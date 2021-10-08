@@ -1,4 +1,4 @@
-.footer{
+.footer {
     max-width: 928px;
     display: flex;
     flex-direction: row;
@@ -6,35 +6,22 @@
     align-items: flex-end;
 }
 
-@media (min-width: 1280px){
-    .footer{
+@media (min-width: 1280px) {
+    .footer {
         max-width: 1184px;
     }
 }
 
-
-@media (max-width: 768px){
-    .footer{
+@media (max-width: 768px) {
+    .footer {
         max-width: 720px;
     }
-    
-
 }
 
-
-@media (max-width: 425px){
-    .footer{
+@media (max-width: 767px) {
+    .footer {
         flex-direction: column;
         align-items: flex-start;
     }
 }
-
-
-@media (max-width: 320px){
-    .footer{
-        flex-direction: column;
-        align-items: flex-start;
-    }
-}
-
 

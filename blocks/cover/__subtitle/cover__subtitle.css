@@ -1,4 +1,4 @@
-.cover__subtitle{
+.cover__subtitle {
     margin-block-start: 0;
     margin-block-end: 0;
     color: white;
@@ -12,14 +12,11 @@
     margin-top: 32px;
 }
 
-
-@media (max-width: 320px){
-    .cover__subtitle{
+@media (max-width: 320px) {
+    .cover__subtitle {
         font-size: 14px;
         line-height: 114%;
         margin-top: 16px;
         max-width: 288px;
-
     }
-    
 }

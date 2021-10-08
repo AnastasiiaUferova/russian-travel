@@ -1,4 +1,4 @@
-.place__title{
+.place__title {
     color: white;
     font-weight: 900;
     font-size: 72px;
@@ -9,22 +9,19 @@
     text-align: left;
 }
 
-
-
-@media (max-width: 768px){
-    .place__title{
+@media (max-width: 768px) {
+    .place__title {
         font-size: 40px;
         line-height: 110%;
     }
-    
 }
 
-
-@media (max-width: 425px){
-    .place__title{
+@media (max-width: 425px) {
+    .place__title {
         font-size: 32px;
         line-height: 109%;
         margin-left: 16px;
     }
 }
+
 

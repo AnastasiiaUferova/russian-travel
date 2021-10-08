@@ -1,6 +1,5 @@
-@media (max-width: 425px){
-    .place__paragraphs{
-        margin-block-end: 0;
+@media (max-width: 425px) {
+    .place__paragraphs {
         margin-left: 16px;
         margin-right: 16px;
     }

@@ -1,29 +1,16 @@
-.root__intro{
+.root__intro {
     margin-left: 48px;
 }
 
-
-
-@media (min-width: 1280px){
-    .root__intro{
+@media (min-width: 1280px) {
+    .root__intro {
         margin: auto;
     }
 }
 
-
-@media (max-width: 768px){
-    .root__intro{
+@media (max-width: 768px) {
+    .root__intro {
         margin-left: 24px;
     }
-    
-
-}
-
-
-@media (max-width: 320px){
-    .root__intro{
-        margin-left: 16px;
-    }
-    
 }
 

@@ -1,13 +1,11 @@
-.place__image{
+.place__image {
     width: 100%;
     object-fit: cover;
     margin: 0;
-
 }
 
-
-@media (max-width: 425px){
-    .place__image{
+@media (max-width: 425px) {
+    .place__image {
         width: 100vw;
     }
 }

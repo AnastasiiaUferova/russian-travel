@@ -1,10 +1,10 @@
-.root__header{
+.root__header {
     margin: auto;
     padding-top: 28px;
 }
 
-@media (max-width: 425px){
-    .root__header{
+@media (max-width: 425px) {
+    .root__header {
         padding-top: 16px;
     }
 }

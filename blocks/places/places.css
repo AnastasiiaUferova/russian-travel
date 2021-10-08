@@ -1,31 +1,23 @@
-.places{
+.places {
     max-width: 928px;
-    
 }
 
-
-@media (min-width: 1280px){
-    .places{
+@media (min-width: 1280px) {
+    .places {
         max-width: 984px;
     }
 }
 
-
-
-@media (max-width: 768px){
-    .places{
+@media (max-width: 768px) {
+    .places {
         max-width: 720px;
     }
-    
-
 }
 
-
-@media (max-width: 320px){
-    .places{
+@media (max-width: 320px) {
+    .places {
         max-width: 320px;
     }
-    
 }
 
 

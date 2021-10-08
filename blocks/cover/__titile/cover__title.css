@@ -1,4 +1,4 @@
-.cover__title{
+.cover__title {
     margin-block-start: 0;
     margin-block-end: 0;
     color: white;
@@ -11,13 +11,10 @@
     align-self: center;
 }
 
-
-
-@media (max-width: 425px){
-    .cover__title{
+@media (max-width: 425px) {
+    .cover__title {
         font-size: 32px;
         line-height: 109%;
         max-width: 288px;
     }
-    
 }

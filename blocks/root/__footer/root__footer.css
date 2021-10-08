@@ -1,29 +1,25 @@
-.root__footer{
+.root__footer {
     margin: auto;
     margin-top: 92px;
     padding-bottom: 24px;
 }
 
-
-@media (min-width: 1280px){
-    .root__footer{
+@media (min-width: 1280px) {
+    .root__footer {
         max-width: 1184px;
     }
 }
 
-
-@media (max-width: 768px){
-    .root__footer{
+@media (max-width: 768px) {
+    .root__footer {
         margin-top: 88px;
     }
-    
 }
 
-@media (max-width: 425px){
-    .root__footer{
+@media (max-width: 767px) {
+    .root__footer {
         margin-top: 64px;
         margin-left: 16px;
     }
-    
 }
 

@@ -1,8 +1,7 @@
-.photo-grid__item{
+.photo-grid__item {
     width: 100%;
     margin-block-start: 0;
     margin-block-end: 0;
     object-fit: cover;
-    
 }
 

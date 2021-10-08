@@ -1,4 +1,4 @@
-.place__link{
+.place__link {
     font-weight: 400;
     font-style: normal;
     font-size: 18px;
@@ -9,7 +9,7 @@
     text-decoration: underline;
 }
 
-.place__link:hover{
+.place__link:hover {
     opacity: 0.8;
 }
 

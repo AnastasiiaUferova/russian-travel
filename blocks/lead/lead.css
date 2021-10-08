@@ -1,29 +1,25 @@
-.lead{
+.lead {
     display: flex;
     align-items: center;
     flex-direction: column;
     max-width: 928px;
-    background-color: #2A2C2F;
+    background-color: #2a2c2f;
 }
 
-
-@media (min-width: 1280px){
-    .lead{
+@media (min-width: 1280px) {
+    .lead {
         max-width: 984px;
     }
 }
 
-
-
-@media (max-width: 768px){
-    .lead{
+@media (max-width: 768px) {
+    .lead {
         max-width: 768px;
     }
 }
 
-
-@media (max-width: 320px){
-    .lead{
+@media (max-width: 320px) {
+    .lead {
         max-width: 320px;
     }
 }
