@@ -1,7 +1,7 @@
 # ''Russian Travel' one-page student project for Yandex.Practicum
 
 ## Description:
-"Russian Travel" is a one-page site about tourism in Russia. It contains a quideline for trip along the Trans-Siberian Railway with photographs of Russian nature, description and links to useful resources about tourism and places of interest like a map, a calendar, a transport timetable.Doing this project, I practiced the implementation of adaptive layout using Flexbox, Grid Layout and CSS @media rules.
+"Russian Travel" is a one-page site about tourism in Russia. It contains a quideline for trip along the Trans-Siberian Railway with photographs of Russian nature, description and links to useful resources about tourism and places of interest like a map, a calendar, a transport timetable. Doing this project, I practiced the implementation of adaptive layout using Flexbox, Grid Layout and CSS @media rules.
 
 ## Functionality:
 * Adaptive design;
