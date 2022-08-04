@@ -1,4 +1,6 @@
-# ''Russian Travel' one-page student project for Yandex.Practicum
+# ''Russian Travel' one-page student project for [Yandex.Practicum](https://practicum.com)
+
+## [Check out the project on GitHubPages](https://anastasiiauferova.github.io/russian-travel/)
 
 ## Description:
 "Russian Travel" is a one-page site about tourism in Russia. It contains a quideline for trip along the Trans-Siberian Railway with photographs of Russian nature, description and links to useful resources about tourism and places of interest like a map, a calendar, a transport timetable. Doing this project, I practiced the implementation of adaptive layout using Flexbox, Grid Layout and CSS @media rules.
@@ -24,6 +26,3 @@
 git clone https://github.com/AnastasiiaUferova/russian-travel.git
 ```
 Run a local development server (for instance, LiveServer in VSCode).
-
-Link to project: https://anastasiiauferova.github.io/russian-travel/ 
-
