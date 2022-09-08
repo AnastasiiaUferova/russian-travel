@@ -1,5 +1,8 @@
 # ''Russian Travel' one-page student project for [Yandex.Practicum](https://practicum.com)
 
+
+https://user-images.githubusercontent.com/78100943/189169293-258916bc-6baa-45e1-9bd4-47e42da50b6a.mp4
+
 ## [Check out the project on GitHubPages](https://anastasiiauferova.github.io/russian-travel/)
 
 ## Description:
